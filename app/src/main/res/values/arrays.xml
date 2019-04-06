@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- contents -->
+    <string-array name="contents">
+        <item>@string/title_activity_style</item>
+        <item>@string/title_activity_style_in_code</item>
+        <item>@string/title_activity_use</item>
+        <item>@string/title_activity_recycler_view</item>
+        <item>@string/copyright</item>
+        <item>@string/license</item>
+    </string-array>
+</resources>
